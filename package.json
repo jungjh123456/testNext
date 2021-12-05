@@ -1,8 +1,4 @@
 {
-  "name": "react-blog",
-	"version": "0.1.0",
-	"private": true,
-
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -26,5 +22,22 @@
   "devDependencies": {
     "eslint": "^7.32.0",
     "redux-devtools-extension": "^2.13.9"
-  }
+  },
+  "name": "nextjs-blog",
+  "description": "This is a starter template for [Learn Next.js](https://nextjs.org/learn).",
+  "version": "1.0.0",
+  "main": "server.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jungjh123456/testNext.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jungjh123456/testNext/issues"
+  },
+  "homepage": "https://github.com/jungjh123456/testNext#readme"
 }
