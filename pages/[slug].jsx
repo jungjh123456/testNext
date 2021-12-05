@@ -1,5 +1,6 @@
 import React from 'react';
-import { SlugWrap } from './style';
+import { SlugWrap } from '../components/style';
+
 
 const slug = (props) => {
     console.log(props)
